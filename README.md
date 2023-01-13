@@ -8,6 +8,6 @@ Software Developer.
 
 * 🌍  I'm based in Dallas, TX
 * 🧠  I'm learning everything JavaScript
-* 😄 Pronouns: he/him
-* 🚀  I'm currently working on [ERG](https://www.erg.com/)
+* 🚀  I'm currently working in [ERG](https://www.erg.com/)
 * ✉️ You can contact me at [justin.joseph@erg.com](mailto:justin.joseph@erg.com)
+* ⚡ Fun fact: I can play golf 
